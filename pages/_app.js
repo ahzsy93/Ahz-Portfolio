@@ -3,7 +3,7 @@ import { useRouter } from "next/router";
 import { ParallaxProvider } from "react-scroll-parallax";
 import { motion, AnimatePresence } from "framer-motion";
 import Script from 'next/script'
-
+import { Analytics } from '@vercel/analytics/react';
 
 function MyApp({ Component, pageProps }) {
   const router = useRouter();
@@ -44,6 +44,7 @@ function MyApp({ Component, pageProps }) {
       >
         <ParallaxProvider>
           <Component {...pageProps} />
+          <Analytics />
         </ParallaxProvider>
       </motion.div>
     </AnimatePresence>
