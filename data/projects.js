@@ -85,7 +85,7 @@ export const projects = [
   },
   {
     id: 8,
-    title: "Athena Training Center",
+    title: "Athena HR Development",
     category: "Logo",
     description:
       "Improve your learned, and learn new science in Athena you will be hero, yellow and purple colors on white lead you to understand courses easily",
