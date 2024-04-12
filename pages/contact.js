@@ -65,7 +65,7 @@ export default function Contact() {
                   <h1 className="font-bold uppercase text-4xl my-4">
                     Ali Zahedah
                   </h1>
-                  <p className="text-gray-200">IT Engineer | Graphic Designer</p>
+                  <p className="text-gray-200">IT Support Specialist | Web Developer | Graphic Designer</p>
                 </div>
                 <div className="flex flex-col space-y-2 text-white mt-16">
                   <div className="w-full h-10 flex justify-start items-start space-x-2">
@@ -118,9 +118,9 @@ export default function Contact() {
                     <p className="italic">Email: </p>
                     <a
                       className="text-white font-bold "
-                      href="mailto:ahzahedah@gmail.com"
+                      href="mailto:ahzuae93@gmail.com"
                     >
-                      ahzahedah@gmail.com
+                      ahzuae93@gmail.com
                     </a>
                   </div>
 
