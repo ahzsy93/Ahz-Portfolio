@@ -89,7 +89,7 @@ const Footer = () => {
           </div>
           <hr className="border-gray-600" />
           <p className="w-full text-center my-5 text-cyan-100">
-            Copyright © 2022 Ali H. Zahedah
+            Copyright © 2024 Ali H. Zahedah
           </p>
         </div>
       </div>

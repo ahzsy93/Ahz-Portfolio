@@ -103,8 +103,8 @@ const Navigation = ({ fixed }) => {
   {/* Github */}
   <a
     className="border-b-2 border-transparent hover:text-sky-300  mx-1.5 sm:mx-6"
-    href="https://www.facebook.com/ahz.fb/"
-    aria-label="Faccebook Account"
+    href="https://github.com/ahzsy93"
+    aria-label="Github"
   >
     <svg
       xmlns="http://www.w3.org/2000/svg"

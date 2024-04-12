@@ -21,11 +21,11 @@ export const Hero = () => {
           </div>
         </div>
           <h5 class="mb-1 text-xl font-medium text-gray-900 dark:text-white">Ali Zahedah</h5>
-          <span class="text-sm text-gray-500 dark:text-gray-400">Graphics Designer</span>
+          <span class="text-sm text-gray-500 dark:text-gray-400">IT Support Specialist</span>
           <div class="flex mt-4 space-x-3 md:mt-6">
           <div className="w-auto pt-6 md:pt-0 md:mt-16 md:ml-2">
             <a
-              href="/documents/Graphic_Designer_Ali_Zahedah.pdf"
+              href="/documents/Ali_Zahedah_Resume.pdf"
               download={"Ali-Zaheda-cv"}
               className="bg-blue-500 text-white shadow px-4 py-3 flex items-center justify-center whitespace-nowrap cursor-pointer hover:bg-blue-600 transition-all ease-in-out"
             >
@@ -117,7 +117,7 @@ export const Hero = () => {
     </h1>
     <div className="w-auto pt-6 md:pt-0 md:mt-16 md:ml-2">
       <a
-        href="/documents/Graphic_Designer_Ali_Zahedah.pdf"
+        href="/documents/Ali_Zahedah_Resume.pdf"
         download={"Ali-Zaheda-cv"}
         className="bg-blue-500 text-white shadow px-4 py-3 flex items-center justify-center whitespace-nowrap cursor-pointer hover:bg-blue-600 transition-all ease-in-out"
       >
