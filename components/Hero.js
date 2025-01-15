@@ -21,7 +21,7 @@ export const Hero = () => {
           </div>
         </div>
           <h5 class="mb-1 text-xl font-medium text-gray-900 dark:text-white">Ali Zahedah</h5>
-          <span class="text-sm text-gray-500 dark:text-gray-400">IT Support Specialist</span>
+          <span class="text-sm text-gray-500 dark:text-gray-400">IT Support Specialist | Driving Efficiency & Customer Success</span>
           <div class="flex mt-4 space-x-3 md:mt-6">
           <div className="w-auto pt-6 md:pt-0 md:mt-16 md:ml-2">
             <a

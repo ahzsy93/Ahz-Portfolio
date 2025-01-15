@@ -6,7 +6,7 @@ import Navigation from "./Navigation";
 const Container = ({ children, ...customMeta }) => {
   const router = useRouter();
   const meta = {
-    title: "Ali H. Zahedah Portfolio",
+    title: "Ali Hasan Zahedah Portfolio",
     description: `Ali Zahedah personal website. I'm developer, designer, and human.`,
     image: "/avatar.png",
     type: "website",
