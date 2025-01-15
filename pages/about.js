@@ -40,10 +40,10 @@ export default function About() {
 
                 <div className="mt-8">
                   <p className="pb-6 text-lg text-gray-700">
-                    Creative Graphic Designer with talent for developing unique custom
+                    IT Support Specialist | Driving Efficiency & Customer Success | Creative Graphic Designer with talent for developing unique custom
                     artwork. Innovative approach to ideas and concept development.
                     Works at fast pace to meet tight deadlines. Enthusiastic team
-                    player ready to contribute to work success.
+                    player ready to contribute to work success. With 7+ years of experience, I specialize in delivering top-tier IT support, optimizing online operations, and enhancing SEO to drive growth. Proficient in CRM tools and POS Systems, Google Workspace, Office 365, and web services, I excel at resolving technical challenges, streamlining workflows, and fostering strong client relationships.
                   </p>
                 </div>
 
