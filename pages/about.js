@@ -40,10 +40,13 @@ export default function About() {
 
                 <div className="mt-8">
                   <p className="pb-6 text-lg text-gray-700">
-                    IT Support | Driving Efficiency & Customer Success | Creative Graphic Designer with talent for developing unique custom
-                    artwork. Innovative approach to ideas and concept development.
-                    Works at fast pace to meet tight deadlines. Enthusiastic team
-                    player ready to contribute to work success. With 7+ years of experience, I specialize in delivering top-tier IT support, optimizing online operations, and enhancing SEO to drive growth. Proficient in CRM tools and POS Systems, Google Workspace, Office 365, and web services, I excel at resolving technical challenges, streamlining workflows, and fostering strong client relationships.
+                  IT Support | Driving Efficiency & Customer Success with over seven years of experience. 
+I specialize in IT support, customer service, team management, and ensuring productivity and customer satisfaction.
+Skilled in using CRM tools, POS systems, SEO, Google Workspace, Office 365, and web services, with expertise in managing sales platforms like Amazon Seller Central and Noon Seller, as well as maintaining and troubleshooting network infrastructure.
+I’m skilled at solving technical problems, making work processes smoother, and building good relationships with clients.
+
+
+Let’s connect to collaborate and achieve outstanding results together!
                   </p>
                 </div>
 
